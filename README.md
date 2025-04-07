@@ -1,4 +1,4 @@
-# Frontend
+# FrontendBasicProject1
 
 
 💻 Kullanılan Teknolojiler
